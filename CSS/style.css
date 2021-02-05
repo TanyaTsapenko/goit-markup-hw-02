@@ -206,6 +206,26 @@ background: rgba(245, 244, 250, 1);
                     font-style: normal;
                     font-weight: 400;
                 }
+
+                .email2{
+                    color:rgba(255, 255, 255, 0.6);
+                    font-style: normal;
+                    font-family:'Roboto', sans-serif;
+                    text-decoration: none;
+                    font-weight: 400;}
+                .email2:hover{
+                    color: rgba(33, 150, 243, 1);}
+                    
+                    .phone2{
+                        color:rgba(255, 255, 255, 0.6);
+                        font-style: normal;
+                        font-family:'Roboto', sans-serif;
+                    text-decoration: none;
+                font-weight: 400;}
+                    .phone2:hover{
+                        color: rgba(33, 150, 243, 1);}
+
+
                 .webtextfooter{
                     font-family: 'Raleway', sans-seri;
                     color: rgba(33, 150, 243, 1);
