@@ -1,0 +1,65 @@
+
+.header{
+background: rgba(255, 255, 255, 1);}
+.text{
+    font-style: normal;
+    font-size: 26px;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    font: 'Raleway', sans-serif;
+    list-style-type: none;
+}
+.webtext{ color:rgba(33, 150, 243, 1);}
+
+
+.studio{
+color:rgb(0, 0, 0);
+position: absolute;
+font-style: normal;
+font-family: 'Roboto', sans-serif;
+text-decoration: none;
+}
+.studio:hover{color: rgba(33, 150, 243, 1);}
+
+
+
+.portfolio{
+    color: rgba(33, 33, 33, 1);
+    position: absolute;
+    font-style: normal;
+    font-family:'Roboto', sans-serif;
+text-decoration: none;
+}
+
+    .portfolio:hover{color: rgba(33, 150, 243, 1);}
+
+    
+    .contacts{
+        color: rgba(33, 33, 33, 1);
+        position: absolute;
+        font-style: normal;
+        font-family:'Roboto', sans-serif;
+    text-decoration: none;}
+
+        .contacts:hover{color: rgba(33, 150, 243, 1);}
+
+
+
+        .email{
+            color:rgba(117, 117, 117, 1);
+            font-style: normal;
+            font-family:'Roboto', sans-serif;
+        text-decoration: none;}
+        .email:hover{
+            color: rgba(33, 150, 243, 1);}
+
+
+            .phone{
+                color:rgba(117, 117, 117, 1);
+                font-style: normal;
+                font-family:'Roboto', sans-serif;
+            text-decoration: none;}
+            .phone:hover{
+                color: rgba(33, 150, 243, 1);}
+
