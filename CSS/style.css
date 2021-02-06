@@ -1,241 +1,194 @@
-
 .header{
-background: rgba(255, 255, 255, 1);}
+    background-color:rgba(255, 255, 255, 1) ;
+}
 .text{
+    font-family:'Raleway', sans-serif; 
+    color:rgba(33, 33, 33, 1) ;
+    font-weight: 700;
     font-style: normal;
     font-size: 26px;
-    color: black;
-    font-weight: 700;
-    text-decoration: none;
-    font: 'Raleway', sans-serif;
-    list-style-type: none;
-}
-.webtext{ color:rgba(33, 150, 243, 1);}
+    line-height: 31px;
+    letter-spacing: 3%;
+    text-decoration: none;}
 
+
+    
+    .webtext{
+        color:rgba(33, 150, 243, 1) ;
+    }
 
 .studio{
-color:rgb(0, 0, 0);
-position: absolute;
-font-style: normal;
-font-family: 'Roboto', sans-serif;
-text-decoration: none;
+    font-family:  'Roboto', sans-serif;
+    color: rgba(33, 33, 33, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 2%;
 }
-.studio:hover{color: rgba(33, 150, 243, 1);}
-
+.studio:hover {color:rgba(33, 150, 243, 1) ;}
 
 
 .portfolio{
+    font-family:  'Roboto', sans-serif;
     color: rgba(33, 33, 33, 1);
-    position: absolute;
+    text-decoration: none;
     font-style: normal;
-    font-family:'Roboto', sans-serif;
-text-decoration: none;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 2%;
+}
+.portfolio:hover {color:rgba(33, 150, 243, 1) ;}
+
+.contacts{
+    font-family:  'Roboto', sans-serif;
+    color: rgba(33, 33, 33, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 2%;
+}
+.contacts:hover {color:rgba(33, 150, 243, 1) ;}
+
+
+.email{
+    font-family:  'Roboto', sans-serif;
+    color: rgba(117, 117, 117, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 2%;
+}
+.email:hover {color:rgba(33, 150, 243, 1) ;}
+
+.phone{
+    font-family:  'Roboto', sans-serif;
+    color: rgba(117, 117, 117, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 2%;
+}
+.phone:hover {color:rgba(33, 150, 243, 1) ;}
 }
 
-    .portfolio:hover{color: rgba(33, 150, 243, 1);}
-
-    
-    .contacts{
-        color: rgba(33, 33, 33, 1);
-        position: absolute;
-        font-style: normal;
-        font-family:'Roboto', sans-serif;
-    text-decoration: none;}
-
-        .contacts:hover{color: rgba(33, 150, 243, 1);}
-
-
-
-        .email{
-            color:rgba(117, 117, 117, 1);
-            font-style: normal;
-            font-family:'Roboto', sans-serif;
-        text-decoration: none;}
-        .email:hover{
-            color: rgba(33, 150, 243, 1);}
-
-
-            .phone{
-                color:rgba(117, 117, 117, 1);
-                font-style: normal;
-                font-family:'Roboto', sans-serif;
-            text-decoration: none;}
-            .phone:hover{
-                color: rgba(33, 150, 243, 1);}
 
 .tittle{
-    color: white;
-    font-family:'Roboto', sans-serif;
-    font-style: normal;
-background-color:rgba(47, 48, 58, 1);} 
-
-
-
-
-
-.botton{
-    color:rgba(255, 255, 255, 1);
+    
+    background-color:rgba(47, 48, 58, 1) ;
     font-family:'Roboto', sans-serif; 
+    color: rgba(255, 255, 255, 1);
     font-style: normal;
-    background-color: rgba(33, 150, 243, 1);
-    text-decoration: none;
-}
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 6%;
+    text-transform: uppercase;
 
+}
 
 
 
 
 .box1{
-    color: rgba(33, 33, 33, 1);
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;}  
-    
-    .p1{
-        color: rgba(117, 117, 117, 1);
-        font-family:'Roboto', sans-serif; 
-        font-style: normal;
-    }
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(33, 33, 33, 1) ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+}
 
+.p1{
+font-family: 'Roboto', sans-serif; 
+color: rgba(117, 117, 117, 1);
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 3%;
+
+}
 .box2{
-    color: rgba(33, 33, 33, 1);
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;}
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(33, 33, 33, 1) ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+}
+.p2{
+    font-family: 'Roboto', sans-serif; 
+    color: rgba(117, 117, 117, 1);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;}
 
-    .p2{
-        color: rgba(117, 117, 117, 1);
-        font-family:'Roboto', sans-serif; 
-        font-style: normal;
+    
+.box3{
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(33, 33, 33, 1) ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+}
+.p3{
+    font-family: 'Roboto', sans-serif; 
+    color: rgba(117, 117, 117, 1);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;}
+
+.box4{
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(33, 33, 33, 1) ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+}
+.p4{
+    font-family: 'Roboto', sans-serif; 
+    color: rgba(117, 117, 117, 1);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;}
+
+
+    .tittleimg{
+font-family: 'Roboto', sans-serif; 
+color: rgba(33, 33, 33, 1);
+font-style: normal;
+font-weight: 700px;
+font-size: 36px;
+line-height: 42.19px;
+letter-spacing: 3%;
+align-items: center;
+
+
     }
 
-    .box3{
-        color: rgba(33, 33, 33, 1);
-        font-family: 'Roboto', sans-serif;
-        font-style: normal;}
-
-        .p3{
-            color: rgba(117, 117, 117, 1);
-            font-family:'Roboto', sans-serif; 
-            font-style: normal;
-        }
-
-        .box4{
-            color:rgba(33, 33, 33, 1);
-            font-family: 'Roboto', sans-serif;
-            font-style: normal;}
-
-            .p4{
-                color: rgba(117, 117, 117, 1);
-                font-family:'Roboto', sans-serif; 
-                font-style: normal;
-            
-            }
-        
-
-.tittleimg{
-    color: rgba(33, 33, 33, 1);
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-}
-
-
-
-.comand{
-background: rgba(245, 244, 250, 1);
-}
-
-
-.textcomand{
-   color:rgba(33, 33, 33, 1);
-   font-family: 'Roboto', sans-serif;
-   
-}
-
-
-.human1{
-    color: rgba(33, 33, 33, 1);
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;}
-.profession1{
-    color:rgba(117, 117, 117, 1); 
-    font-family:'Roboto', sans-serif; 
-    font-style: normal;
-    font-weight: normal;}
-.human2{
-    color: rgba(33, 33, 33, 1);
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;}
-
-    .profession2{
-        color:rgba(117, 117, 117, 1); 
-        font-family:'Roboto', sans-serif; 
-        font-style: normal;
-        font-weight: normal;}
-
-    .human3{
-        color: rgba(33, 33, 33, 1);
-        font-family: 'Roboto', sans-serif;
-        font-style: normal;}
-
-        .profession3{
-            color:rgba(117, 117, 117, 1); 
-            font-family:'Roboto', sans-serif; 
-            font-style: normal;
-            font-weight: normal;}
-
-        .human4{
-            color: rgba(33, 33, 33, 1);
-            font-family: 'Roboto', sans-serif;
-            font-style: normal;}
-
-            .profession4{
-                color:rgba(117, 117, 117, 1); 
-                font-family:'Roboto', sans-serif; 
-                font-style: normal;
-                font-weight: normal;}
-
-
-
-
-
-                .footer{
-                   background-color:rgba(47, 48, 58, 1);
-                }
-                .adress{
-                    color: rgba(255, 255, 255, 1);
-                    font-family: 'Roboto', sans-serif;
-                    font-style: normal;
-                    font-weight: 400;
-                }
-
-                .email2{
-                    color:rgba(255, 255, 255, 0.6);
-                    font-style: normal;
-                    font-family:'Roboto', sans-serif;
-                    text-decoration: none;
-                    font-weight: 400;}
-                .email2:hover{
-                    color: rgba(33, 150, 243, 1);}
-                    
-                    .phone2{
-                        color:rgba(255, 255, 255, 0.6);
-                        font-style: normal;
-                        font-family:'Roboto', sans-serif;
-                    text-decoration: none;
-                font-weight: 400;}
-                    .phone2:hover{
-                        color: rgba(33, 150, 243, 1);}
-
-
-                .webtextfooter{
-                    font-family: 'Raleway', sans-seri;
-                    color: rgba(33, 150, 243, 1);
-                    font-weight: 700;
-                    font-size: 26px;
-                }
-                .textfooter{
-                    font-family: 'Raleway', sans-seri;
-                    color:rgba(255, 255, 255, 1);
-                    font-weight: 700;
-                    font-size: 26px;
-                    text-decoration: none;
-                }
