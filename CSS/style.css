@@ -81,21 +81,31 @@
 }
 
 
-.tittle{
-    
-    background-color:rgba(47, 48, 58, 1) ;
-    font-family:'Roboto', sans-serif; 
-    color: rgba(255, 255, 255, 1);
+.bottons{
+    color:rgba(255, 255, 255, 1);
+    font-family:'Roboto', sans-serif;
+    font-weight: 700px;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 6%; 
     font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 60px;
-    text-align: center;
-    letter-spacing: 6%;
-    text-transform: uppercase;
-
+    background-color: rgba(33, 150, 243, 1);
+    text-decoration: none;
 }
 
+.titlemain{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 900px;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 6%;
+    align-items: center;}
+
+.section{
+    background-color:rgba(47, 48, 58, 1) ;
+}
 
 
 
@@ -188,7 +198,222 @@ font-size: 36px;
 line-height: 42.19px;
 letter-spacing: 3%;
 align-items: center;
+}
+
+.comand{
+    background-color:rgba(245, 244, 250, 1) ;
+}
+
+.textcomand{
+    font-family:'Roboto', sans-serif; 
+    color: rgba(33, 33, 33, 1);
+    font-weight: 700px;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 42.19px;
+    letter-spacing: 3%;
+    align-items: center;
+
+}
+
+.human1{
+    font-family: 'Roboto', sans-serif; 
+    color: rgba(33, 33, 33, 1);
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
+.profession1{
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(117, 117, 117, 1);
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
+
+.human2{
+    font-family: 'Roboto', sans-serif; 
+    color: rgba(33, 33, 33, 1);
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
+.profession2{
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(117, 117, 117, 1);
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
+
+.human3{
+    font-family: 'Roboto', sans-serif; 
+    color: rgba(33, 33, 33, 1);
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
+.profession3{
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(117, 117, 117, 1);
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
+
+.human4{
+    font-family: 'Roboto', sans-serif; 
+    color: rgba(33, 33, 33, 1);
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
+.profession4{
+    font-family: 'Roboto', sans-serif; 
+    color:rgba(117, 117, 117, 1);
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    align-items: center;
+}
 
 
+.footer{
+    background-color: rgba(47, 48, 58, 1);
+}
+
+.textfooter{
+    font-family:'Raleway', sans-serif; 
+    color: white;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 3%;
+    text-decoration: none;
+}
+
+    .adress{
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 3%;
     }
 
+    .email2{
+        font-family: 'Roboto', sans-serif; 
+        color:rgba(255, 255, 255, 0.6);
+        font-weight: 400px;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 3%;  
+    }
+    .email2:hover{color:rgba(33, 150, 243, 1) ;}
+
+    .phone2{
+        font-family: 'Roboto', sans-serif; 
+        color:rgba(255, 255, 255, 0.6);
+        font-weight: 400px;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 3%;  
+    }
+    .phone2:hover{color:rgba(33, 150, 243, 1) ;}
+
+
+
+
+
+
+    .btn1{
+        font-family: 'Roboto', sans-serif; 
+        color: rgba(33, 33, 33, 1);
+        font-weight: 500px;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 3%; 
+        align-items: center; 
+    }
+    .btn1:hover{background-color:rgba(33, 150, 243, 1) ;
+        color:rgba(255, 255, 255, 1);}
+    
+        .btn2{
+            font-family: 'Roboto', sans-serif; 
+            color: rgba(33, 33, 33, 1);
+            font-weight: 500px;
+            font-style: normal;
+            font-size: 16px;
+            line-height: 26px;
+            letter-spacing: 3%; 
+            align-items: center; 
+        }
+        .btn2:hover{background-color:rgba(33, 150, 243, 1) ;
+            color:rgba(255, 255, 255, 1);}
+
+            .btn3{
+                font-family: 'Roboto', sans-serif; 
+                color: rgba(33, 33, 33, 1);
+                font-weight: 500px;
+                font-style: normal;
+                font-size: 16px;
+                line-height: 26px;
+                letter-spacing: 3%; 
+                align-items: center; 
+            }
+            .btn3:hover{background-color:rgba(33, 150, 243, 1) ;
+                color:rgba(255, 255, 255, 1);}
+
+                .btn4{
+                    font-family: 'Roboto', sans-serif; 
+                    color: rgba(33, 33, 33, 1);
+                    font-weight: 500px;
+                    font-style: normal;
+                    font-size: 16px;
+                    line-height: 26px;
+                    letter-spacing: 3%; 
+                    align-items: center; 
+                }
+                .btn4:hover{background-color:rgba(33, 150, 243, 1) ;
+                    color:rgba(255, 255, 255, 1);}
+
+                    .btn5{
+                        font-family: 'Roboto', sans-serif; 
+                        color: rgba(33, 33, 33, 1);
+                        font-weight: 500px;
+                        font-style: normal;
+                        font-size: 16px;
+                        line-height: 26px;
+                        letter-spacing: 3%; 
+                        align-items: center; 
+                    }
+                    .btn5:hover{background-color:rgba(33, 150, 243, 1) ;
+                        color:rgba(255, 255, 255, 1);}
