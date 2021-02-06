@@ -416,4 +416,28 @@ align-items: center;
                         align-items: center; 
                     }
                     .btn5:hover{background-color:rgba(33, 150, 243, 1) ;
-                        color:rgba(255, 255, 255, 1);}
+                        color:rgba(255, 255, 255, 1);}                        color:rgba(255, 255, 255, 1);}
+
+
+
+
+    .work{
+        font-family: 'Roboto', sans-serif; 
+        color: rgba(33, 33, 33, 1);
+        font-weight: 700px;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 6%; 
+        text-decoration: none;
+    }
+    .web{
+        font-family: 'Roboto', sans-serif; 
+        color: rgba(117, 117, 117, 1);
+        font-weight: 400px;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: 3%; 
+        
+    }
