@@ -443,6 +443,7 @@ align-items: center;
         letter-spacing: 6%; 
         text-decoration: none;
     }
+    .work:hover {color:rgba(33, 150, 243, 1);}
     .web{
         font-family: 'Roboto', sans-serif; 
         color: rgba(117, 117, 117, 1);
