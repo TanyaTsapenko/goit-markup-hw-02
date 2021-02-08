@@ -30,6 +30,10 @@
 .studio:hover {color:rgba(33, 150, 243, 1) ;}
 .studio:hover, .studio:focus{color:rgba(33, 150, 243, 1) ;}
 
+.current, .studio:active{color:rgba(33, 150, 243, 1) ;
+    font-family:  'Roboto', sans-serif;
+    text-decoration: none;}
+.studio:active{color:white;}
 
 
 
@@ -45,6 +49,8 @@
 }
 .portfolio:hover {color:rgba(33, 150, 243, 1) ;}
 .portfolio:hover, .portfolio:focus {color:rgba(33, 150, 243, 1) ;}
+.portfolio:hover, .portfolio:focus, :active{color:rgba(33, 150, 243, 1) ;}
+.portfolio:active{color:white;}
 
 .contacts{
     font-family:  'Roboto', sans-serif;
@@ -58,6 +64,8 @@
 }
 .contacts:hover {color:rgba(33, 150, 243, 1) ;}
 .contacts:hover, .contacts:focus{color:rgba(33, 150, 243, 1) ;}
+.contacts:active{color:white;}
+
 
 
 .email{
