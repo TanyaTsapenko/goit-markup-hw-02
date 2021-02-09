@@ -51,11 +51,9 @@ a.menu-link{
     letter-spacing: 0.02em;
 }
 .studio:hover, .studio:focus{color:rgba(33, 150, 243, 1) ;}
-.current, .studio:active{color:rgba(33, 150, 243, 1) ;
   .current, .studio:active{color:rgba(33, 150, 243, 1) ;
     font-family:  'Roboto', sans-serif;
     text-decoration: none;}
-.studio:active{color:white;}
 
 
 
@@ -70,7 +68,7 @@ a.menu-link{
     letter-spacing: 0.02em;
 }
 .portfolio:hover, .portfolio:focus, :active{color:rgba(33, 150, 243, 1) ;}
-.portfolio:active{color:white;}
+
 
 .contacts{
     font-family:  'Roboto', sans-serif;
@@ -83,7 +81,6 @@ a.menu-link{
     letter-spacing: 0.02em;
 }
 .contacts:hover, .contacts:focus{color:rgba(33, 150, 243, 1) ;}
-.contacts:active{color:white;}
 .contacts:active{color:white;}*/
 
 
@@ -481,11 +478,15 @@ align-items: center;
         font-size: 16px;
         line-height: 30px;
         letter-spacing: 0.03em; 
+    
         
     }
     li{
         list-style-type: none;
+        
     }
+    .a{display: block;}
+    .classa{ text-decoration: none;}
 
     .visually-hidden{
         position: absolute;
