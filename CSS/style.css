@@ -8,7 +8,7 @@
     font-style: normal;
     font-size: 26px;
     line-height: 31px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-decoration: none;}
 
 
@@ -23,10 +23,10 @@
     color: rgba(33, 33, 33, 1);
     text-decoration: none;
     font-style: normal;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 .studio:hover, .studio:focus{color:rgba(33, 150, 243, 1) ;}
 .current, .studio:active{color:rgba(33, 150, 243, 1) ;
@@ -41,10 +41,10 @@
     color: rgba(33, 33, 33, 1);
     text-decoration: none;
     font-style: normal;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 .portfolio:hover, .portfolio:focus, :active{color:rgba(33, 150, 243, 1) ;}
 .portfolio:active{color:white;}
@@ -54,10 +54,10 @@
     color: rgba(33, 33, 33, 1);
     text-decoration: none;
     font-style: normal;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 .contacts:hover, .contacts:focus{color:rgba(33, 150, 243, 1) ;}
 .contacts:active{color:white;}
@@ -69,10 +69,10 @@
     color: rgba(117, 117, 117, 1);
     text-decoration: none;
     font-style: normal;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 .email:hover {color:rgba(33, 150, 243, 1) ;}
 
@@ -81,10 +81,10 @@
     color: rgba(117, 117, 117, 1);
     text-decoration: none;
     font-style: normal;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 .phone:hover {color:rgba(33, 150, 243, 1) ;}
 
@@ -93,10 +93,10 @@
 .bottons{
     color:rgba(255, 255, 255, 1);
     font-family:'Roboto', sans-serif;
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 16px;
     line-height: 30px;
-    letter-spacing: 6%; 
+    letter-spacing: 0.06em; 
     font-style: normal;
     background-color: rgba(33, 150, 243, 1);
     text-decoration: none;
@@ -106,11 +106,11 @@
 .titlemain{
     color: rgba(255, 255, 255, 1);
     font-family: 'Roboto', sans-serif; 
-    font-weight: 900px;
+    font-weight: 900;
     font-style: normal;
     font-size: 44px;
     line-height: 60px;
-    letter-spacing: 6%;
+    letter-spacing: 0.06em;
     align-items: center;}
 
 .section{
@@ -126,7 +126,7 @@
     font-weight: bold;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -138,7 +138,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 24px;
-letter-spacing: 3%;
+letter-spacing: 0.03em;
 }
 .box2{
     font-family: 'Roboto', sans-serif; 
@@ -147,7 +147,7 @@ letter-spacing: 3%;
     font-weight: bold;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .p2{
@@ -157,7 +157,7 @@ letter-spacing: 3%;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    letter-spacing: 3%;}
+    letter-spacing: 0.03em;}
 
     
 .box3{
@@ -167,7 +167,7 @@ letter-spacing: 3%;
     font-weight: bold;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .p3{
@@ -177,7 +177,7 @@ letter-spacing: 3%;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    letter-spacing: 3%;}
+    letter-spacing: 0.03em;}
 
 .box4{
     font-family: 'Roboto', sans-serif; 
@@ -186,7 +186,7 @@ letter-spacing: 3%;
     font-weight: bold;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .p4{
@@ -196,17 +196,17 @@ letter-spacing: 3%;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    letter-spacing: 3%;}
+    letter-spacing: 0.03em;}
 
 
     .tittleimg{
 font-family: 'Roboto', sans-serif; 
 color: rgba(33, 33, 33, 1);
 font-style: normal;
-font-weight: 700px;
+font-weight: 700;
 font-size: 36px;
 line-height: 42.19px;
-letter-spacing: 3%;
+letter-spacing: 0.03em;
 align-items: center;
 }
 
@@ -217,11 +217,11 @@ align-items: center;
 .textcomand{
     font-family:'Roboto', sans-serif; 
     color: rgba(33, 33, 33, 1);
-    font-weight: 700px;
+    font-weight: 700;
     font-style: normal;
     font-size: 36px;
     line-height: 42.19px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 
 }
@@ -229,84 +229,84 @@ align-items: center;
 .human1{
     font-family: 'Roboto', sans-serif; 
     color: rgba(33, 33, 33, 1);
-    font-weight: 500px;
+    font-weight: 500;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 .profession1{
     font-family: 'Roboto', sans-serif; 
     color:rgba(117, 117, 117, 1);
-    font-weight: 400px;
+    font-weight: 400;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 
 .human2{
     font-family: 'Roboto', sans-serif; 
     color: rgba(33, 33, 33, 1);
-    font-weight: 500px;
+    font-weight: 500;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 .profession2{
     font-family: 'Roboto', sans-serif; 
     color:rgba(117, 117, 117, 1);
-    font-weight: 400px;
+    font-weight: 400;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 
 .human3{
     font-family: 'Roboto', sans-serif; 
     color: rgba(33, 33, 33, 1);
-    font-weight: 500px;
+    font-weight: 500;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 .profession3{
     font-family: 'Roboto', sans-serif; 
     color:rgba(117, 117, 117, 1);
-    font-weight: 400px;
+    font-weight: 400;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 
 .human4{
     font-family: 'Roboto', sans-serif; 
     color: rgba(33, 33, 33, 1);
-    font-weight: 500px;
+    font-weight: 500;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 .profession4{
     font-family: 'Roboto', sans-serif; 
     color:rgba(117, 117, 117, 1);
-    font-weight: 400px;
+    font-weight: 400;
     font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     align-items: center;
 }
 
@@ -322,7 +322,7 @@ align-items: center;
     font-style: normal;
     font-size: 26px;
     line-height: 31px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-decoration: none;
 }
 
@@ -333,28 +333,30 @@ align-items: center;
         font-style: normal;
         font-size: 14px;
         line-height: 24px;
-        letter-spacing: 3%;
+        letter-spacing: 0.03em;
     }
 
     .email2{
         font-family: 'Roboto', sans-serif; 
         color:rgba(255, 255, 255, 0.6);
-        font-weight: 400px;
+        font-weight: 400;
         font-style: normal;
         font-size: 14px;
         line-height: 24px;
-        letter-spacing: 3%;  
+        letter-spacing: 0.03em;  
+        text-decoration: none;
     }
     .email2:hover {color:rgba(33, 150, 243, 1) ;}
 
     .phone2{
         font-family: 'Roboto', sans-serif; 
         color:rgba(255, 255, 255, 0.6);
-        font-weight: 400px;
+        font-weight: 400;
         font-style: normal;
         font-size: 14px;
         line-height: 24px;
-        letter-spacing: 3%;  
+        letter-spacing: 0.03em;  
+        text-decoration: none;
     }
     .phone2:hover{color:rgba(33, 150, 243, 1) ;}
 
@@ -366,11 +368,12 @@ align-items: center;
     .btn1{
         font-family: 'Roboto', sans-serif; 
         color: rgba(33, 33, 33, 1);
-        font-weight: 500px;
+        background-color: rgba(245, 244, 250, 1);
+        font-weight: 500;
         font-style: normal;
         font-size: 16px;
         line-height: 26px;
-        letter-spacing: 3%; 
+        letter-spacing: 0.03em; 
         align-items: center; 
     }
     .btn1:hover, .btn1:focus {background-color:rgba(33, 150, 243, 1) ;
@@ -379,11 +382,12 @@ align-items: center;
         .btn2{
             font-family: 'Roboto', sans-serif; 
             color: rgba(33, 33, 33, 1);
-            font-weight: 500px;
+            background-color: rgba(245, 244, 250, 1);
+            font-weight: 500;
             font-style: normal;
             font-size: 16px;
             line-height: 26px;
-            letter-spacing: 3%; 
+            letter-spacing: 0.03em; 
             align-items: center; 
         }
         .btn2:hover,.btn2:focus {background-color:rgba(33, 150, 243, 1) ;
@@ -392,11 +396,12 @@ align-items: center;
             .btn3{
                 font-family: 'Roboto', sans-serif; 
                 color: rgba(33, 33, 33, 1);
-                font-weight: 500px;
+                background-color: rgba(245, 244, 250, 1);
+                font-weight: 500;
                 font-style: normal;
                 font-size: 16px;
                 line-height: 26px;
-                letter-spacing: 3%; 
+                letter-spacing: 0.03em; 
                 align-items: center; 
             }
             .btn3:hover, .btn3:focus{background-color:rgba(33, 150, 243, 1) ;
@@ -405,11 +410,12 @@ align-items: center;
                 .btn4{
                     font-family: 'Roboto', sans-serif; 
                     color: rgba(33, 33, 33, 1);
-                    font-weight: 500px;
+                    background-color: rgba(245, 244, 250, 1);
+                    font-weight: 500;
                     font-style: normal;
                     font-size: 16px;
                     line-height: 26px;
-                    letter-spacing: 3%; 
+                    letter-spacing: 0.03em; 
                     align-items: center; 
                 }
                 .btn4:hover, .btn4:focus{background-color:rgba(33, 150, 243, 1) ;
@@ -418,11 +424,12 @@ align-items: center;
                     .btn5{
                         font-family: 'Roboto', sans-serif; 
                         color: rgba(33, 33, 33, 1);
-                        font-weight: 500px;
+                        background-color: rgba(245, 244, 250, 1);
+                        font-weight: 500;
                         font-style: normal;
                         font-size: 16px;
                         line-height: 26px;
-                        letter-spacing: 3%; 
+                        letter-spacing: 0.03em; 
                         align-items: center; 
                     }
                     .btn5:hover, .btn5:focus {background-color:rgba(33, 150, 243, 1) ;
@@ -434,22 +441,22 @@ align-items: center;
     .work{
         font-family: 'Roboto', sans-serif; 
         color: rgba(33, 33, 33, 1);
-        font-weight: 700px;
+        font-weight: 700;
         font-style: normal;
         font-size: 18px;
         line-height: 36px;
-        letter-spacing: 6%; 
+        letter-spacing: 0.06em; 
         text-decoration: none;
     }
     .work:hover, .work:focus {color:rgba(33, 150, 243, 1);}
     .web{
         font-family: 'Roboto', sans-serif; 
         color: rgba(117, 117, 117, 1);
-        font-weight: 400px;
+        font-weight: 400;
         font-style: normal;
         font-size: 16px;
         line-height: 30px;
-        letter-spacing: 3%; 
+        letter-spacing: 0.03em; 
         
     }
     li{
@@ -465,3 +472,25 @@ align-items: center;
         padding: 0;
         clip: rect(0 0 0 0);
         overflow: hidden;}
+
+
+
+
+        :root{
+
+            --black-text:rgba(33, 33, 33, 1);
+            --blue-text: rgba(33, 150, 243, 1);
+            --gray-text:rgba(117, 117, 117, 1);
+            --white-text: rgba(255, 255, 255, 1);
+            
+            --transparent-text06:rgba(255, 255, 255, 0.6);
+            
+            --header: rgba(255, 255, 255, 1);
+            --footer: rgba(47, 48, 58, 1);
+            
+            --booton: rgba(245, 244, 250, 1);
+            
+            --background: rgba(47, 48, 58, 1);
+            
+            
+            }
