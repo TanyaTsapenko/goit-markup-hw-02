@@ -18,6 +18,28 @@
     }
 
 
+a.menu-link{
+    font-family:  'Roboto', sans-serif;
+    color: rgba(33, 33, 33, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;}
+
+   .menu-link:hover, .menu-link:focus, .menu-link:active{color:rgba(33, 150, 243, 1) ;}
+.current{color:rgba(33, 150, 243, 1);
+    font-family:  'Roboto', sans-serif;
+    font-size: 14px;
+    text-decoration: none;}
+
+
+    
+
+
+
+/*
 .studio{
     font-family:  'Roboto', sans-serif;
     color: rgba(33, 33, 33, 1);
@@ -30,6 +52,7 @@
 }
 .studio:hover, .studio:focus{color:rgba(33, 150, 243, 1) ;}
 .current, .studio:active{color:rgba(33, 150, 243, 1) ;
+  .current, .studio:active{color:rgba(33, 150, 243, 1) ;
     font-family:  'Roboto', sans-serif;
     text-decoration: none;}
 .studio:active{color:white;}
@@ -61,6 +84,7 @@
 }
 .contacts:hover, .contacts:focus{color:rgba(33, 150, 243, 1) ;}
 .contacts:active{color:white;}
+.contacts:active{color:white;}*/
 
 
 
