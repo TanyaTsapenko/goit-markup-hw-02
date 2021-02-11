@@ -1,3 +1,23 @@
+
+        :root{
+
+            --black-text:rgba(33, 33, 33, 1);
+            --blue-text: rgba(33, 150, 243, 1);
+            --gray-text:rgba(117, 117, 117, 1);
+            --white-text: rgba(255, 255, 255, 1);
+            
+            --transparent-text06:rgba(255, 255, 255, 0.6);
+            
+            --header: rgba(255, 255, 255, 1);
+            --footer: rgba(47, 48, 58, 1);
+            
+            --booton: rgba(245, 244, 250, 1);
+            
+            --background: rgba(47, 48, 58, 1);
+            
+            
+            }
+
 .header{
     background-color:rgba(255, 255, 255, 1) ;
 }
@@ -9,7 +29,6 @@
     font-family:'Raleway', sans-serif; 
     color:rgba(33, 33, 33, 1) ;
     font-weight: 700;
-    font-style: normal;
     font-size: 26px;
     line-height: 31px;
     letter-spacing: 0.03em;
@@ -23,7 +42,6 @@
 a.menu-link{
     color: rgba(33, 33, 33, 1);
     text-decoration: none;
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
@@ -46,17 +64,6 @@ a.menu-link{
 }
 .email:hover {color:rgba(33, 150, 243, 1) ;}
 
-.phone{
-    color: rgba(117, 117, 117, 1);
-    text-decoration: none;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
-}
-.phone:hover {color:rgba(33, 150, 243, 1) ;}
-
 
 .bottons{
     color:rgba(255, 255, 255, 1);
@@ -64,7 +71,6 @@ a.menu-link{
     font-size: 16px;
     line-height: 30px;
     letter-spacing: 0.06em; 
-    font-style: normal;
     background-color: rgba(33, 150, 243, 1);
     text-decoration: none;
 }
@@ -72,7 +78,6 @@ a.menu-link{
 .titlemain{
     color: rgba(255, 255, 255, 1);
     font-weight: 900;
-    font-style: normal;
     font-size: 44px;
     line-height: 60px;
     letter-spacing: 0.06em;
@@ -85,7 +90,6 @@ a.menu-link{
 
 .box{
     color:rgba(33, 33, 33, 1) ;
-    font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 16px;
@@ -95,7 +99,6 @@ a.menu-link{
 
 .p1{
 color: rgba(117, 117, 117, 1);
-font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 24px;
@@ -104,7 +107,6 @@ letter-spacing: 0.03em;
 
     .tittleimg{
 color: rgba(33, 33, 33, 1);
-font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 42.19px;
@@ -119,7 +121,6 @@ align-items: center;
 .textcomand{ 
     color: rgba(33, 33, 33, 1);
     font-weight: 700;
-    font-style: normal;
     font-size: 36px;
     line-height: 42.19px;
     letter-spacing: 0.03em;
@@ -130,7 +131,6 @@ align-items: center;
 .human{
     color: rgba(33, 33, 33, 1);
     font-weight: 500;
-    font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
     letter-spacing: 0.03em;
@@ -139,7 +139,6 @@ align-items: center;
 .profession{
     color:rgba(117, 117, 117, 1);
     font-weight: 400;
-    font-style: normal;
     font-size: 16px;
     line-height: 18.75px;
     letter-spacing: 0.03em;
@@ -154,7 +153,6 @@ align-items: center;
     font-family:'Raleway', sans-serif; 
     color: white;
     font-weight: 700;
-    font-style: normal;
     font-size: 26px;
     line-height: 31px;
     letter-spacing: 0.03em;
@@ -170,29 +168,6 @@ align-items: center;
         letter-spacing: 0.03em;
     }
 
-    .email2{ 
-        color:rgba(255, 255, 255, 0.6);
-        font-weight: 400;
-        font-style: normal;
-        font-size: 14px;
-        line-height: 24px;
-        letter-spacing: 0.03em;  
-        text-decoration: none;
-    }
-    .email2:hover {color:rgba(33, 150, 243, 1) ;}
-
-    .phone2{
-     
-        color:rgba(255, 255, 255, 0.6);
-        font-weight: 400;
-        font-style: normal;
-        font-size: 14px;
-        line-height: 24px;
-        letter-spacing: 0.03em;  
-        text-decoration: none;
-    }
-    .phone2:hover{color:rgba(33, 150, 243, 1) ;}
-
 
 
 
@@ -203,7 +178,6 @@ align-items: center;
         color: rgba(33, 33, 33, 1);
         background-color: rgba(245, 244, 250, 1);
         font-weight: 500;
-        font-style: normal;
         font-size: 16px;
         line-height: 26px;
         letter-spacing: 0.03em; 
@@ -219,7 +193,6 @@ align-items: center;
         
         color: rgba(33, 33, 33, 1);
         font-weight: 700;
-        font-style: normal;
         font-size: 18px;
         line-height: 36px;
         letter-spacing: 0.06em; 
@@ -230,7 +203,6 @@ align-items: center;
          
         color: rgba(117, 117, 117, 1);
         font-weight: 400;
-        font-style: normal;
         font-size: 16px;
         line-height: 30px;
         letter-spacing: 0.03em; 
@@ -256,22 +228,3 @@ align-items: center;
 
 
 
-
-        :root{
-
-            --black-text:rgba(33, 33, 33, 1);
-            --blue-text: rgba(33, 150, 243, 1);
-            --gray-text:rgba(117, 117, 117, 1);
-            --white-text: rgba(255, 255, 255, 1);
-            
-            --transparent-text06:rgba(255, 255, 255, 0.6);
-            
-            --header: rgba(255, 255, 255, 1);
-            --footer: rgba(47, 48, 58, 1);
-            
-            --booton: rgba(245, 244, 250, 1);
-            
-            --background: rgba(47, 48, 58, 1);
-            
-            
-            }
